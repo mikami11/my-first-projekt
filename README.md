@@ -1,2 +1,2 @@
-# my-first-projekt
-it is for practice to git hub
+# About my first project on GitHub
+ギットハブの練習
